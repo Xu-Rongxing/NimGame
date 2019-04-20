@@ -6,7 +6,7 @@ This is a program to find all the P-positions with n heaps stones, and each heap
 # How to run it
 
 * Find the function ''nim_solution(max,heap)''.
-* Set up the values of 'max' and 'heap'.
+* Set up the values of "max" and 'heap'.
 
 # Example
 * nim_solution(6,3)
